@@ -2,5 +2,5 @@
 -  I’m interested in programming
 -  I’m currently learning python
 -  I’m looking to collaborate on nothing
-- 📫 How to reach me discord: ^Carlos^#0725
+- 📫 How to reach me discord: .1carlos1
 
